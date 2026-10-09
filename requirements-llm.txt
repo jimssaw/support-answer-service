@@ -1,0 +1,2 @@
+# Optional: only needed for --mode llm. The default rule-based mode uses the standard library only.
+anthropic

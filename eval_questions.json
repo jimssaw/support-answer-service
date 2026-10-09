@@ -1,0 +1,12 @@
+[
+  {"question": "How do I reset my password?", "expected": "answer", "expected_ids": ["doc_1"]},
+  {"question": "When does the password reset link expire?", "expected": "answer", "expected_ids": ["doc_1"]},
+  {"question": "What 2FA methods are supported?", "expected": "answer", "expected_ids": ["doc_2"]},
+  {"question": "How long do withdrawal reviews take?", "expected": "answer", "expected_ids": ["doc_3"]},
+  {"question": "What do I need before closing my account?", "expected": "answer", "expected_ids": ["doc_4"]},
+  {"question": "How do I change my address?", "expected": "answer", "expected_ids": ["doc_5"]},
+  {"question": "Can you guarantee my withdrawal will finish in 2 hours?", "expected": "abstain"},
+  {"question": "What tax advice do you provide for closed accounts?", "expected": "abstain"},
+  {"question": "Can support change my email address for me?", "expected": "abstain"},
+  {"question": "How do I buy bitcoin?", "expected": "abstain"}
+]
